@@ -1,4 +1,4 @@
-# Notes App Documentation
+# Documentation
 
 ## 📄 Overview
 This application allows users to **create**, **edit**, and **delete** notes.  
